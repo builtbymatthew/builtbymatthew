@@ -2,9 +2,9 @@
 
 My name is Matthew Pearson, and I’m an Electronics and Computer Engineering student with a strong interest in embedded systems, hardware-software integration, and building practical tech solutions.
 
-- 🔭 I’m currently developing an iOS application that enhances a wireless automotive telemetry system already in use. 
+- 🛠️ I’m currently developing an iOS application that enhances a wireless automotive telemetry system already in use. 
   - [Product Website](https://elexprep.wixsite.com/laplogic)
-- 🌱 I’m currently learning Swift for iOS development, exploring advanced C programming for embedded applications, and experimenting with other languages like Python.  
+- 🧠 I’m currently learning Swift for iOS development, exploring advanced C programming for embedded applications, and experimenting with other languages like Python.  
 - 👨‍💻 I'm passionate about all things software—always eager to learn, tinker, and build across different platforms.
   
 <!--
