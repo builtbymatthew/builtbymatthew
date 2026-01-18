@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Matthew Pearson, and I’m an Electronics and Computer Engineering student with a strong interest in embedded systems, hardware-software integration, and building practical tech solutions.
+My name is Matthew Pearson, and I am a Computer Engineering student with a strong interest in embedded systems, hardware-software integration, and building practical tech solutions.
 
 - 🛠️ I’m currently developing an iOS application that enhances a wireless automotive telemetry system already in use. 
   - [Product Website](https://elexprep.wixsite.com/laplogic)
